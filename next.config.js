@@ -176,6 +176,9 @@ module.exports = {
         value: 'Nonpurchaser',
       },
     ],
+    builderIO: {
+      apiKey: process.env.BUILDER_IO_API_KEY,
+    },
   },
   serverRuntimeConfig: {
     currentUrl: process.env.CURRENT_DOMAIN,
