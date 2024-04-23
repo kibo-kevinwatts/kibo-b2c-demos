@@ -163,8 +163,8 @@ const MegaMenuCategory = (props: MegaMenuCategoryProps) => {
                 <KiboImage
                   src={DefaultImage}
                   alt={t('advertisement')}
-                  width={'100'}
-                  height={'100'}
+                  width={'400'}
+                  height={'290'}
                 />
               </Box>
             </Box>
